@@ -22,6 +22,12 @@ This repository contains files for importing journal abbreviations into the Term
    - Choose one of the `.txt` files from this repository (e.g., `Journal-Abbreviation.txt` or `Journal-Abbreviation-Extended.txt`).
 3. Once imported, you can start using journal abbreviations in your references.
 
+For detailed guidance on managing Term Lists in EndNote, refer to this [tutorial from UCL Library Services](https://library-guides.ucl.ac.uk/endnote/term-lists).
+
+### Configuring Journal Abbreviations in Output Styles
+
+To configure EndNote to output journal abbreviations in your citations and bibliography, follow the instructions provided in the [UCL guide on editing an EndNote style](https://library-guides.ucl.ac.uk/endnote/editing-a-style#s-lg-box-wrapper-19206688).
+
 ## Notes
 
 - The PDF file is for reference purposes only. The `.txt` files are formatted for direct import into EndNote.
